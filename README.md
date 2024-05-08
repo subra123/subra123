@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm R.Subramanian</h1>
 <h3 align="center">Passionate about Flutter development and competitive coding, striving to innovate and solve real-world problems with creativity and precision.</h3>
-<div class="tenor-gif-embed" data-postid="6236369" data-share-method="host" data-aspect-ratio="0.935743" data-width="100%"><a href="https://tenor.com/view/cat-coding-mrrobot-gif-6236369">Cat Coding GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<img align="right" alt="coding" width="400" scr="https://media1.tenor.com/m/KywF5hgM9g4AAAAC/cat-coding.gif">
+<img align="right" alt="coding" width="400" scr="[https://media1.tenor.com/m/KywF5hgM9g4AAAAC/cat-coding.gif](https://th.bing.com/th/id/OIP.NEvLQnmYd01Js29hYFTKtwAAAA?rs=1&pid=ImgDetMain)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subra123&label=Profile%20views&color=0e75b6&style=flat" alt="subra123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subra123" alt="subra123" /></a> </p>
