@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm R.Subramanian</h1>
 <h3 align="center">Passionate about Flutter development and competitive coding, striving to innovate and solve real-world problems with creativity and precision.</h3>
-<img  scr="./OIP.jpg" align="right" alt="coding" width="400">
+<img src="./OIP.jpg" align="right" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subra123&label=Profile%20views&color=0e75b6&style=flat" alt="subra123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subra123" alt="subra123" /></a> </p>
