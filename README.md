@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **my personal tech company gadgetsgeek.tech**
 
-- 📝 I regularly write articles on [gadgetsgeek.tech/blogs](https://gadgetsgeek.tech/blogs)
+- 📝 I regularly write articles on [gadgetsgeek.tech/blogs](https://gadgetsgeek.tech/blog)
 
-- 💬 Ask me about **anything on my Instagram @_subramanian_.r**
+- 💬 Ask me about **anything on my [Instagram @_subramanian_.r](https://instagram.com/_subramanian_.r)**
 
 - 📫 How to reach me **vishnusubramani8@gmail.com**
 
@@ -26,14 +26,8 @@
   <a href="https://linkedin.com/in/subramanian-r-5b86bb215" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subramanian-r-5b86bb215" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/subramanian12345" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subramanian12345" height="30" width="40" />
-  </a>
   <a href="https://instagram.com/_subramanian_.r" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_subramanian_.r" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@vishnusubramani8" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishnusubramani8" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/tech-savvy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech-savvy" height="30" width="40" />
@@ -41,23 +35,11 @@
   <a href="https://www.codechef.com/users/subtechsavvy" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="subtechsavvy" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/vishnusubramani8" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishnusubramani8" height="30" width="40" />
-  </a>
   <a href="https://codeforces.com/profile/subra123" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="subra123" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/subramanian2004" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subramanian2004" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@vishnusubramani8" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vishnusubramani8" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/<vishnusubl7j1>/profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<vishnusubl7j1>/profile" height="30" width="40" />
-  </a>
-  <a href="https://www.topcoder.com/members/subra123" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="subra123" height="30" width="40" />
   </a>
 </p>
 
