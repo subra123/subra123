@@ -1,45 +1,36 @@
-<h1 align="center">About Me</h1>
+<h1 align="center">Hi 👋, I'm R.Subramanian</h1>
 <h3 align="center">Passionate about Flutter development and competitive coding, striving to innovate and solve real-world problems with creativity and precision.</h3>
 
 <p align="left">
-  <a href="https://twitter.com/subrama75223708" target="blank">
-    <img src="https://img.shields.io/twitter/follow/subrama75223708?logo=twitter&style=for-the-badge" alt="subrama75223708" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=subra123&label=Profile%20views&color=0e75b6&style=flat" alt="subra123" />
 </p>
 
-- 🔭 I’m currently working on **[-]()**
+- 🔭 I’m currently working in **Cognizance as a club mentor**
 
-- 🌱 I’m currently learning **[-]()**
+- 🌱 I’m currently learning **deep learning topics**
 
-- 👯 I’m looking to collaborate on **[-]()**
+- 👯 I’m looking to collaborate on **my personal tech company gadgetsgeek.tech**
 
-- 🤝 I’m looking for help with **[-]()**
+- 📝 I regularly write articles on [gadgetsgeek.tech/blogs](https://gadgetsgeek.tech/blogs)
 
-- 👨‍💻 All of my projects are available at **[-]()**
-
-- 📝 I regularly write articles on **[-]()**
-
-- 💬 Ask me about **[-]()**
+- 💬 Ask me about **anything on my Instagram @_subramanian_.r**
 
 - 📫 How to reach me **vishnusubramani8@gmail.com**
 
-- 📄 Know about my experiences **[-]()**
+- 📄 I worked as an **App Dev Intern at Gola India Inc**
 
-- ⚡ Fun fact **[-]()**
+- ⚡ Fun fact **I'm really a good chess player, FIDE rating 1527, ex-South Zone Chess Champion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/subrama75223708" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subrama75223708" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/subramanian-r-5b86bb215" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subramanian-r-5b86bb215" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/subramanian12345" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subramanian12345" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sherlock._oo7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherlock._oo7" height="30" width="40" />
+  <a href="https://instagram.com/_subramanian_.r" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_subramanian_.r" height="30" width="40" />
   </a>
   <a href="https://medium.com/@vishnusubramani8" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishnusubramani8" height="30" width="40" />
@@ -112,3 +103,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subra123&show_icons=true&locale=en&layout=compact" alt="subra123" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=subra123&show_icons=true&locale=en" alt="subra123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subra123&" alt="subra123" /></p>
