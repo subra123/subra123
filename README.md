@@ -1,5 +1,5 @@
 <h1 align="center">About me</h1>
-<h3 align="center">Passionate about Flutter development and competitive coding, striving to innovate and solve real-world problems with creativity and precision.</h3>
+<h3 align="center">Passionate about Flutter development and competitive coding, striving to innovate and solve real-world problems with creativity and passion.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=subra123&label=Profile%20views&color=0e75b6&style=flat" alt="subra123" />
