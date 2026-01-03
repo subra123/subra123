@@ -56,7 +56,7 @@ Focused on building and analyzing security systems that operate at scale — fro
 * 📱 **Past Experience (Contextual)**
 
   * **Android Developer Intern — Gola India Inc.**
-    *(Mobile systems background leveraged for security tooling)*
+    *(Learned Flutter and Dart also learned dev workflow)*
 
 ---
 
