@@ -50,7 +50,7 @@ Focused on building and analyzing security systems that operate at scale — fro
 * 📄 **Security Projects & Research**
 
   * **LLM-generated text detection** using NLP and ML techniques.
-  * **Real-time vishing detection** for Android calls.
+  * **Real-time vishing detection** for VoIP and Cellular calls.
   * **BadUSB mitigation** and **ML-based DDoS detection** systems.
 
 * 📱 **Past Experience (Contextual)**
