@@ -35,25 +35,52 @@ Focused on building and analyzing security systems that operate at scale — fro
 
 ### 🏗️ Experience & Roles
 
-- 🔭 **Mentor — Cognizance Cybersecurity Club**
-  - Designed forensic and security challenges
-  - Conducted workshops on malware, RATs, phishing, and network attacks
+* 🔐 **Security Intelligence Intern — Atlassian**
+  *May 2025 – Aug 2025*
 
-- 📄 **Research & Projects**
-  - ML-based LLM text detection
-  - Real-time vishing detection on Android
-  - Secure remote access & monitoring concepts
+  * Built **identity and UEBA-based detection logic** to prevent session hijacking in real-time alert pipelines.
+  * Contributed to **SaaS-scale detection systems**, BAU security operations, and internal security hackathons.
 
-- 📱 **Past Experience**
-  - App Development Intern — *Gola India Inc.*  
-  *(Mobile development background, now leveraged for security tooling)*
+* 🔭 **Mentor — Cognizance Cybersecurity Club**
+  *Dec 2022 – Present*
+
+  * Conducted hands-on workshops on **malware, Wi-Fi attacks, phishing, and network analysis**.
+  * Designed real-world **forensic and security challenges** for CTF-style events.
+
+* 📄 **Security Projects & Research**
+
+  * **LLM-generated text detection** using NLP and ML techniques.
+  * **Real-time vishing detection** for Android calls.
+  * **BadUSB mitigation** and **ML-based DDoS detection** systems.
+
+* 📱 **Past Experience (Contextual)**
+
+  * **Android Developer Intern — Gola India Inc.**
+    *(Mobile systems background leveraged for security tooling)*
+
+---
+
+### 🏆 Highlights
+
+* 🥇 **Winner — Atlassian ShipIt Intern Hackathon**
+* 🥇 **Winner — CryptoShield Hackathon (DDoS Defense)**
+* 🔎 **Responsible disclosure** of a security vulnerability on Chess.com
+
+---
+
+### 📜 Certifications
+
+* **ISC2 Certified in Cybersecurity (CC)**
+* **Oracle OCI DevOps Professional**
+* **AWS Cloud Practitioner**
+
 
 ---
 
 ### ✍️ Writing & Knowledge Sharing
 
 - 📝 Articles on security, tech, and analysis at  
-  👉 https://gadgetsgeek.tech/blog
+  👉 [https://gadgetsgeek.tech/blog](https://gadgetsgeektech.hashnode.dev/)
 
 ---
 
@@ -82,23 +109,6 @@ Focused on building and analyzing security systems that operate at scale — fro
   <a href="https://linkedin.com/in/subramanian-r-5b86bb215" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_subramanian_.r" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/subra123" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/subramanian2004" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
 </p>
 
 ---
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subra123&show_icons=true&locale=en" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subra123" />
-</p>
