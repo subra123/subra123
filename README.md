@@ -35,12 +35,6 @@ Focused on building and analyzing security systems that operate at scale — fro
 
 ### 🏗️ Experience & Roles
 
-* 🔐 **Security Intelligence Intern — Atlassian**
-  *May 2025 – Aug 2025*
-
-  * Built **identity and UEBA-based detection logic** to prevent session hijacking in real-time alert pipelines.
-  * Contributed to **SaaS-scale detection systems**, BAU security operations, and internal security.
-
 * 🔭 **Mentor — Cognizance Cybersecurity Club**
   *Dec 2022 – Present*
 
